@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nare Praveen Kumar</h1>
-<h3 align="center">A passionate Tech Enthusiast | B.Tech ECE (2nd Year) 🔍 Exploring the intersection of hardware and software 💡 Passionate about electronics, IoT, and coding.loper from India</h3>
+<h3 align="center">A passionate Tech Enthusiast | B.Tech ECE (2nd Year) 🔍 Exploring the intersection of hardware and software 💡 Passionate about electronics, IoT, and coding</h3>
 <img align="center" alt="coding" width="400" src="https://github.com/user-attachments/assets/fe1484a4-a856-42f2-93bb-7958e65d0bdb">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen-kumar-nare&label=Profile%20views&color=0e75b6&style=flat" alt="praveen-kumar-nare" /> </p>
